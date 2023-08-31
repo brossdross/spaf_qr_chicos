@@ -5,8 +5,14 @@ body {
     background-position: center center;
 }
 
+.cuadro-aclara{
+    background-color: black;
+}
+
 .aclara{
     text-align: center;
+    color: white;
+    background-color: black;
 }
 
 .empresa{

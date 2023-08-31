@@ -1,0 +1,53 @@
+body {
+    background-image: url(../assets-spaf/img/fondo\ histo\ amarillo2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.aclara{
+    text-align: center;
+}
+
+.empresa{
+    text-align: center;
+}
+
+.wpp-empresa{
+    text-align: center;
+}
+
+.llamada-empresa{
+    text-align: center;
+}
+
+.enviar-ubi{
+    text-align: center;
+}
+
+.logo-wpp{
+    width: 20px;
+    align-items: start;
+}
+
+.padres{
+    text-align: center;
+}
+
+.ficha-medica{
+    text-align: center;
+}
+
+.FM{
+    text-align: center;
+    color: red;
+    
+}
+
+footer {
+    text-align: center;
+}
+
+.logo-spaf{
+    width: 80px;
+}

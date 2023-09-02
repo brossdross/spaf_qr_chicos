@@ -14,6 +14,10 @@ body {
     color: white;    
 }
 
+.texto{
+    margin: 20px;
+}
+
 .empresa{
     text-align: center;
 }

@@ -11,18 +11,6 @@ body {
     display: inline-block;
 }
 
-.textoEncima{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -780%);
-    color: #dbee50;
-    padding: 10px;
-    font-size: 60%;
-    z-index: 1;
-
-}
-
 .plataforma{
     width: 60%;
     margin-top: 20px;
@@ -36,10 +24,6 @@ body {
 
 .aclara-img{
     width: 100%;
-}
-
-.texto{
-    margin: 20px;
 }
 
 .empresa{
@@ -56,31 +40,13 @@ body {
     
 }
 
-.llamada-empresa{
-    text-align: center;
-}
-
-.enviar-ubi{
-    text-align: center;
-}
-
 .logo-wpp{
     width: 50%;
     align-items: start;
 }
 
-.padres{
-    text-align: center;
-}
-
 .ficha-medica{
     text-align: center;
-}
-
-.FM{
-    text-align: center;
-    color: red;
-    
 }
 
 .logo-spaf{

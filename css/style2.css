@@ -60,3 +60,21 @@ footer {
 .logo-spaf{
     width: 80px;
 }
+
+/*------ ficha medica ---------*/
+
+.volver{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.ficha{
+    text-align: center;
+    margin-top: 25px;
+    
+}
+
+.ficha-img{
+    width: 85%;
+    border: solid 2px black;
+}

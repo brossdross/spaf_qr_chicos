@@ -1,17 +1,41 @@
 body {
-    background-image: url(../assets-spaf/img/fondo\ histo\ amarillo2.jpg);
+    background-image: url(../assets-spaf/img/PLASTIC3.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
-.cuadro-aclara{
-    background-color: rgb(32, 32, 32);
+.pastilla1{
+    width: 80%;
+    position: relative;
+    display: inline-block;
+}
+
+.textoEncima{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -780%);
+    color: #dbee50;
+    padding: 10px;
+    font-size: 60%;
+    z-index: 1;
+
+}
+
+.plataforma{
+    width: 60%;
+    margin-top: 20px;
 }
 
 .aclara{
     text-align: center;
-    color: white;    
+    color: white; 
+    margin-top: 20px;
+}
+
+.aclara-img{
+    width: 100%;
 }
 
 .texto{
@@ -24,6 +48,12 @@ body {
 
 .wpp-empresa{
     text-align: center;
+    margin-top: 275px;
+}
+
+.wpp-empresa2{
+    text-align: center;
+    
 }
 
 .llamada-empresa{
@@ -35,7 +65,7 @@ body {
 }
 
 .logo-wpp{
-    width: 20px;
+    width: 50%;
     align-items: start;
 }
 
@@ -51,10 +81,6 @@ body {
     text-align: center;
     color: red;
     
-}
-
-footer {
-    text-align: center;
 }
 
 .logo-spaf{
@@ -77,4 +103,15 @@ footer {
 .ficha-img{
     width: 85%;
     border: solid 2px black;
+}
+
+footer {
+    text-align: center;
+}
+
+.version{
+    color: #dbee50;
+    text-align: center;
+    font-size: 9px;
+    margin-top: 10px;
 }

@@ -94,6 +94,10 @@ body {
     margin-top: 20px;
 }
 
+.volver2{
+    width: 20%;
+}
+
 .ficha{
     text-align: center;
     margin-top: 25px;
@@ -107,6 +111,10 @@ body {
 
 footer {
     text-align: center;
+}
+
+.footerFM{
+    margin-top: 10%;
 }
 
 .version{

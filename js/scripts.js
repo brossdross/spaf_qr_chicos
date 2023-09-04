@@ -1,7 +1,12 @@
-/*!
-* Start Bootstrap - Bare v5.0.9 (https://startbootstrap.com/template/bare)
-* Copyright 2013-2023 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-bare/blob/master/LICENSE)
-*/
-// This file is intentionally blank
-// Use this file to add JavaScript to your project
+/*function simulateProgress() {
+    let progressBar = document.getElementById("progress");
+    let width = 0
+    let interval = setInterval(function () {
+        if (width >= 100) {
+            clearInterval(interval);
+        } else {
+            width++;
+            progressBar.style.width = width + "%";
+        }
+    }, 10);
+}*/
